@@ -7,7 +7,8 @@
 - 08/07 Paris > [Colmar](https://maps.app.goo.gl/XbAdp63bmxfhzrdi8) (5h drive net)
 	- [Hotel](https://maps.app.goo.gl/VcRRaREghWT7zM7p9)
 - 09/07 Colmar > [Wangs](https://maps.app.goo.gl/hGuv3Uwa1tfb5QKp9) (3h drive net)
-	- 🔌[EvCharger](https://maps.app.goo.gl/nbmKawhzVWJFUR8q6) need 250km+ range to Hotel
+	- 🔌[EvCharger](https://maps.app.goo.gl/nbmKawhzVWJFUR8q6) need 
+	- **+250km (+60% Elin Charge) range to Hotel**
 	- **Departure: 09:00**
 
 ## Hike [Full Route](https://www.outdooractive.com/en/route/hiking-trail/ferienregion-heidiland/july-apls-full-route/342151979/?share=%7E34iizgxa%244ossyhso)
